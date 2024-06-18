@@ -1,0 +1,11 @@
+{
+  "forcedPocket": "36",
+  "playerBets": [
+    {
+      "playerName": "Sam",
+      "betType": "number",
+      "pocket": "4",
+      "betAmount": "1.00"
+    }
+  ]
+}

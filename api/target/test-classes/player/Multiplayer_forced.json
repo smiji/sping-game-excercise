@@ -1,0 +1,17 @@
+{
+  "forcedPocket": "0",
+  "playerBets": [
+    {
+      "playerName": "Nick",
+      "betType": "number",
+      "pocket": "7",
+      "betAmount": "1.00"
+    },
+    {
+      "playerName": "Jules",
+      "betType": "number",
+      "pocket": "00",
+      "betAmount": "2.00"
+    }
+  ]
+}

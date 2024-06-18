@@ -1,0 +1,6 @@
+roxor/games/roulette/service/RouletteServiceSinglePlayerTest.class
+roxor/games/roulette/util/UtilTest.class
+roxor/games/roulette/service/RouletteServiceMultiPlayerTest.class
+roxor/games/roulette/game/WheelResultTest.class
+roxor/games/roulette/game/RouletteWheelTest.class
+roxor/games/roulette/controller/RouletteControllerTest.class
