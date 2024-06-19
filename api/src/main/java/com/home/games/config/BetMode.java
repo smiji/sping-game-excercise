@@ -1,0 +1,8 @@
+package com.home.games.config;
+
+public enum BetMode {
+    SINGLE_PLAYER_SINGLE_POCKET,
+    MULTI_PLAYER_SINGLE_POCKET,
+    SINGLE_PLAYER_MULTI_POCKET,
+    MULTI_PLAYER_MULTI_POCKET;
+}

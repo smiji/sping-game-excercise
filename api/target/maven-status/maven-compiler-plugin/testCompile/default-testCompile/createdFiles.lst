@@ -1,6 +1,8 @@
-roxor/games/roulette/service/RouletteServiceSinglePlayerTest.class
-roxor/games/roulette/util/UtilTest.class
-roxor/games/roulette/service/RouletteServiceMultiPlayerTest.class
-roxor/games/roulette/game/WheelResultTest.class
-roxor/games/roulette/game/RouletteWheelTest.class
-roxor/games/roulette/controller/RouletteControllerTest.class
+roxor/games/games/game/RouletteWheelTest.class
+roxor/games/games/service/RouletteServiceSinglePlayerTest.class
+roxor/games/games/game/WheelResultTest.class
+roxor/games/games/util/UtilTest.class
+roxor/games/games/controller/RouletteControllerTest.class
+roxor/games/games/service/RouletteServiceMultiPlayerTest.class
+com/home/games/resolver/SpinBetMultiplayerMultiPocketResolverTest.class
+com/home/games/resolver/SpinBetSinglePlayerMultiPocketResolverTest.class

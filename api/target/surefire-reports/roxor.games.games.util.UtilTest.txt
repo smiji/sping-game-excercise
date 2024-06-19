@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: roxor.games.games.util.UtilTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.55 s - in roxor.games.games.util.UtilTest

@@ -1,6 +1,8 @@
-/Users/smiji.j/spring-projects/spin-game-excercise/api/src/test/java/roxor/games/roulette/game/WheelResultTest.java
-/Users/smiji.j/spring-projects/spin-game-excercise/api/src/test/java/roxor/games/roulette/util/UtilTest.java
-/Users/smiji.j/spring-projects/spin-game-excercise/api/src/test/java/roxor/games/roulette/game/RouletteWheelTest.java
-/Users/smiji.j/spring-projects/spin-game-excercise/api/src/test/java/roxor/games/roulette/service/RouletteServiceSinglePlayerTest.java
-/Users/smiji.j/spring-projects/spin-game-excercise/api/src/test/java/roxor/games/roulette/service/RouletteServiceMultiPlayerTest.java
-/Users/smiji.j/spring-projects/spin-game-excercise/api/src/test/java/roxor/games/roulette/controller/RouletteControllerTest.java
+/Users/smiji.j/spring-projects/spin-game-excercise/api/src/test/java/roxor/games/games/service/RouletteServiceSinglePlayerTest.java
+/Users/smiji.j/spring-projects/spin-game-excercise/api/src/test/java/roxor/games/games/controller/RouletteControllerTest.java
+/Users/smiji.j/spring-projects/spin-game-excercise/api/src/test/java/roxor/games/games/game/RouletteWheelTest.java
+/Users/smiji.j/spring-projects/spin-game-excercise/api/src/test/java/com/home/games/resolver/SpinBetSinglePlayerMultiPocketResolverTest.java
+/Users/smiji.j/spring-projects/spin-game-excercise/api/src/test/java/roxor/games/games/util/UtilTest.java
+/Users/smiji.j/spring-projects/spin-game-excercise/api/src/test/java/roxor/games/games/service/RouletteServiceMultiPlayerTest.java
+/Users/smiji.j/spring-projects/spin-game-excercise/api/src/test/java/roxor/games/games/game/WheelResultTest.java
+/Users/smiji.j/spring-projects/spin-game-excercise/api/src/test/java/com/home/games/resolver/SpinBetMultiplayerMultiPocketResolverTest.java

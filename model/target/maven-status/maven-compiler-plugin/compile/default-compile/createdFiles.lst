@@ -1,8 +1,8 @@
-roxor/games/roulette/model/response/BetResultDTO.class
-roxor/games/roulette/model/request/PlayerBetDTO$PlayerBetDTOBuilder.class
-roxor/games/roulette/model/response/SpinResultDTO.class
-roxor/games/roulette/model/response/SpinResultDTO$SpinResultDTOBuilder.class
-roxor/games/roulette/model/request/PlayerBetDTO.class
-roxor/games/roulette/model/response/BetResultDTO$BetResultDTOBuilder.class
-roxor/games/roulette/model/request/SpinDTO$SpinDTOBuilder.class
-roxor/games/roulette/model/request/SpinDTO.class
+com/home/games/model/response/SpinResultDTO.class
+com/home/games/model/response/BetResultDTO$BetResultDTOBuilder.class
+com/home/games/model/request/PlayerBetDTO$PlayerBetDTOBuilder.class
+com/home/games/model/request/SpinDTO$SpinDTOBuilder.class
+com/home/games/model/response/SpinResultDTO$SpinResultDTOBuilder.class
+com/home/games/model/request/PlayerBetDTO.class
+com/home/games/model/request/SpinDTO.class
+com/home/games/model/response/BetResultDTO.class

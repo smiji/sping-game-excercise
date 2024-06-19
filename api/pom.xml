@@ -24,8 +24,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>roxor.games</groupId>
-            <artifactId>roulette-coding-exercise-model</artifactId>
+            <groupId>com.home.games</groupId>
+            <artifactId>sping-game-excercise-model</artifactId>
             <version>${project.version}</version>
         </dependency>
 
